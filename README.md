@@ -23,24 +23,32 @@ explore them all.
 After running the program you will be greeted by our Menu where you will have to choose which option you would like to continue with.
 
 # 1. Enter new recipe
-after choosing option 1 you will be granted the ability to enter a new recipe.
-To start you need to 
+After choosing option 1 you will be granted the ability to enter a new recipe.
+To start you need to give your recipe a name, then you will have to prove the amount of ingredients you will use as well as the amount of steps there are.
+You will then name each ingrient individually while provide the amount according to the grams unit, provide the calories count(remember to stay below 300),
+and specifying the food group it belongs to, eg. protein.
 
 # 2. View recipes
-after choosing option 1 you will be granted the ability to enter a new recipe.
-To start you need to 
+After choosing option 2 you will be taken to the recipe storage where you can choose which recipe you would like to view.
+To do this you will have to enter the full name of the recipe you would like to view. Note that this is case sensitive and you are expected to
+inlcude all uppercase letters and spaces as they are displayed on your given options. Once doing so the recipe will display with all the ingredients and steps
+amd you will be taken back to menu.
 
 # 3. Clear all recipes
-after choosing option 1 you will be granted the ability to enter a new recipe.
-To start you need to 
+After choosing option 3 you are granted the ability to clear all the recipes that were added to the application. Once you have done so you will be taken back to 
+the menu and no recipe will be present in the application.
 
 # 4. Scale a recipe
-after choosing option 1 you will be granted the ability to enter a new recipe.
-To start you need to 
+After choosing option 4 you will have to insert the name of the recipe you wish to scale. Once you have done so you will be able to state to what scale you
+are either increasing or decreasing to. There after you can view your recipe again and the scale of the quantity will either be increased or decreased accordingly.
 
 # 5. Exit
 Upon enter 5 you will close the application and stop running it.
 
 That wraps up the introduction on how to use the application.
 I hope you enjoy using the application as much as I enjoyed making it! :-)
+
+# Github project url
+https://github.com/ST10396198/Part2.git 
+Here is the url to my Github where I constantly public new commitments to the repository.
 
